@@ -9,7 +9,7 @@ Chapter1: [Summary,摘要](https://github.com/cleghom/Statistical-learning-metho
 Chapter2: [Perceptron,感知机算法](https://github.com/cleghom/Statistical-learning-method/blob/master/Chapter2-Perceptron.ipynb)  
 Chapter3: [KNN,K近临算法](https://github.com/cleghom/Statistical-learning-method/blob/master/Chapter3-KNN.ipynb)  
 Chapter4: [Naive Bayes,朴素贝叶斯算法](https://github.com/cleghom/Statistical-learning-method/blob/master/Chapter4-Naive%20Bayes.ipynb)  
-Chapter5: Decision Tree,决策树算法  
+Chapter5: [Decision Tree,决策树算法](https://github.com/cleghom/Statistical-learning-method/blob/master/Chapter5-DecisionTree.ipynb)  
 Chapter6: Logical regression and maximum entropy model,逻辑回归和最大熵模型  
 Chapter7: Support vector machine,支持向量机算法  
 Chapter8: Boosting,提升算法  
