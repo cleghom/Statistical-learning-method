@@ -13,7 +13,7 @@ Chapter3: [KNN,K近临算法](https://nbviewer.jupyter.org/github/cleghom/Statis
 Chapter4: [Naive Bayes,朴素贝叶斯算法](https://nbviewer.jupyter.org/github/cleghom/Statistical-learning-method/blob/master/Chapter4-Naive-Bayes.ipynb)  
 Chapter5: [Decision Tree,决策树算法](https://nbviewer.jupyter.org/github/cleghom/Statistical-learning-method/blob/master/Chapter5-DecisionTree.ipynb)  
 Chapter6: [Logical regression and maximum entropy model,逻辑回归和最大熵模型](https://nbviewer.jupyter.org/github/cleghom/Statistical-learning-method/blob/master/Chapter6-Logical-Regression-and-Maximum-Entropy-Model.ipynb)  
-Chapter7: Support vector machine,支持向量机算法  
+Chapter7: [Support vector machine,支持向量机算法](https://nbviewer.jupyter.org/github/cleghom/Statistical-learning-method/blob/master/Chapter7-Support-Vector-Machines.ipynb)  
 Chapter8: Boosting,提升算法  
 Chapter9: EM,期望最大化算法  
 Chapter10:HMM,隐马尔可夫算法  
