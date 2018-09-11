@@ -18,3 +18,7 @@ Chapter8: Boosting,提升算法
 Chapter9: EM,期望最大化算法  
 Chapter10:HMM,隐马尔可夫算法  
 Chapter11:CRF(conditional random field),条件随机场  
+
+Contact with me:
+Email:          ynuzhaohang@gmail.com
+CSDN Blog:[https://blog.csdn.net/zhaohang_1](https://blog.csdn.net/zhaohang_1)
