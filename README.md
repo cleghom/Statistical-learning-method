@@ -1,4 +1,6 @@
-`由于一直忙于毕业相关事宜，临时停更一段时间，6月开始继续更新，敬请期待 ^ 0 ^~`
+Contact with me:
+Email:          ynuzhaohang@gmail.com  
+CSDN Blog:[https://blog.csdn.net/zhaohang_1](https://blog.csdn.net/zhaohang_1)
 
 # 统计学习方法:Statistical-learning-method
 李航《统计学习方法》书的每一章节核心提炼以及Python代码实现，可以直接运行在Anaconda的Jupyter里面，从即日起抽时间不断更新.  
@@ -18,7 +20,3 @@ Chapter8: Boosting,提升算法
 Chapter9: EM,期望最大化算法  
 Chapter10:HMM,隐马尔可夫算法  
 Chapter11:CRF(conditional random field),条件随机场  
-
-Contact with me:
-Email:          ynuzhaohang@gmail.com
-CSDN Blog:[https://blog.csdn.net/zhaohang_1](https://blog.csdn.net/zhaohang_1)
